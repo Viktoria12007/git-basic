@@ -33,3 +33,6 @@ p {
 .module {
     min-height: 375px;
 }
+header {
+    max-width: 100%;
+}
