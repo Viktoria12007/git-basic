@@ -30,3 +30,6 @@ p {
 .footer {
     background-color: yellow;
 }
+.module {
+    min-height: 375px;
+}
