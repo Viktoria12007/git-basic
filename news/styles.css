@@ -36,6 +36,9 @@ p {
 header {
     max-width: 100%;
 }
+.logo {
+    width: 100px;
+}
 .about_us {
     max-width: 60%;
 }
